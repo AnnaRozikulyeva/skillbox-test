@@ -16,9 +16,10 @@
     "url": "https://github.com/AnnaRozikulyeva/skillbox-test/issues"
   },
   "homepage": "https://github.com/AnnaRozikulyeva/skillbox-test#readme",
-  "description": "",
+  "description": "This is the first work!",
   "dependencies": {
     "express": "^4.21.2",
-    "pg": "^8.13.1"
+    "pg": "^8.13.1",
+    "sqlite3": "^5.1.7"
   }
 }
