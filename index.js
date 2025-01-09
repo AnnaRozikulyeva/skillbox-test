@@ -1,4 +1,3 @@
-const sqlite = require("sqlite3");
-const postgres = require("pg");
+const currentDateTime = require("./date");
 
-console.log("It works!");
+console.log("Today is " + currentDateTime.date + ", the current time is " + currentDateTime.time + ".");
